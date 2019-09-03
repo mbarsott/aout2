@@ -47,11 +47,11 @@ namespace LogAn.UnitTests
 
             Assert.True(result);
         }
-        
+
         // this is a refactoring of all the "regular" tests
-        [TestCase("filewithgoodextension.SLF",true)]
-        [TestCase("filewithgoodextension.slf",true)]
-        [TestCase("filewithbadextension.foo",false)]
+        [TestCase("filewithgoodextension.SLF", true)]
+        [TestCase("filewithgoodextension.slf", true)]
+        [TestCase("filewithbadextension.foo", false)]
         public void IsValidLogFileName_VariousExtensions_ChecksThem(string file, bool expected)
         {
             LogAnalyzer analyzer = new LogAnalyzer();
@@ -62,12 +62,15 @@ namespace LogAn.UnitTests
         }
 
         [Test]
-        [ExpectedException(typeof(ArgumentException),
-              ExpectedMessage = "filename has to be provided")]
         public void IsValidLogFileName_EmptyFileName_ThrowsException()
         {
             LogAnalyzer la = MakeAnalyzer();
-            la.IsValidLogFileName(string.Empty);
+
+            Assert.Throws(
+                typeof(ArgumentException),
+                delegate { la.IsValidLogFileName(string.Empty); },
+                "filename has to be provided"
+                );
         }
 
         private LogAnalyzer MakeAnalyzer()
@@ -81,20 +84,20 @@ namespace LogAn.UnitTests
             LogAnalyzer la = MakeAnalyzer();
 
             var ex = Assert.Throws<ArgumentException>(() => la.IsValidLogFileName(""));
-            
+
             StringAssert.Contains("filename has to be provided", ex.Message);
         }
-        
+
         [Test]
         public void IsValidLogFileName_EmptyFileName_ThrowsFluent()
         {
             LogAnalyzer la = MakeAnalyzer();
 
             var ex = Assert.Throws<ArgumentException>(() => la.IsValidLogFileName(""));
-            
-            Assert.That(ex.Message, Is.StringContaining("filename has to be provided"));
+
+            Assert.That(ex.Message, Is.EqualTo("filename has to be provided"));
         }
-        
+
         [Test]
         public void IsValidLogFileName_WhenCalled_ChangesWasLastFileNameValid()
         {

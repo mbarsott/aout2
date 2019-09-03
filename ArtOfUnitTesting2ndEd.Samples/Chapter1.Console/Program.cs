@@ -17,6 +17,8 @@ namespace Chapter1.ConsoleApp
             {
                 Console.WriteLine(e);
             }
+
+            Console.ReadKey();
         }
 
     }
