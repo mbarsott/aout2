@@ -1,0 +1,5 @@
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\v16\lut\0\b\AppendixBDemos\bin\Debug\AppendixBDemos.dll.config
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\v16\lut\0\b\AppendixBDemos\bin\Debug\AppendixBDemos.dll
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\v16\lut\0\i\AppendixB.IntegrationTests\Debug\AppendixB.IntegrationTests.csprojAssemblyReference.cache
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\v16\lut\0\i\AppendixB.IntegrationTests\Debug\AppendixB.IntegrationTests.csproj.CopyComplete
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\v16\lut\0\i\AppendixB.IntegrationTests\Debug\AppendixBDemos.dll

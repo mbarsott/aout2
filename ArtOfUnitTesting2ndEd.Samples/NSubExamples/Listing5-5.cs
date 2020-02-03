@@ -23,7 +23,7 @@ namespace NSubExamples
             analyzer2.Analyze(tooShortFileName);
 
             Assert.That(mockWebService.MessageToWebService,
-                            Is.StringContaining("fake exception"));
+                            Is.SameAs("fake exception"));
         }
 
         [Test]

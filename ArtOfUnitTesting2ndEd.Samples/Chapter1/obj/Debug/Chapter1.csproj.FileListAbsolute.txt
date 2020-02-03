@@ -19,10 +19,10 @@ D:\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.dll
 D:\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.pdb
 C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\bin\Debug\Chapter1.dll
 C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\bin\Debug\Chapter1.pdb
-C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.csproj.CoreCompileInputs.cache
 C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.dll
 C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.pdb
 C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\bin\Debug\nunit.framework.dll
 C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\bin\Debug\nunit.framework.pdb
 C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\bin\Debug\nunit.framework.xml
 C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.csproj.CopyComplete
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.csprojAssemblyReference.cache

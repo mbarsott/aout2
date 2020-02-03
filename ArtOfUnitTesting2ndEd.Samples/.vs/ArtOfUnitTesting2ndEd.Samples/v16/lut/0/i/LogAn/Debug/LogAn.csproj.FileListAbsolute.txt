@@ -1,0 +1,3 @@
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\v16\lut\0\b\LogAn\bin\Debug\LogAn.dll
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\v16\lut\0\i\LogAn\Debug\LogAn.csproj.CopyComplete
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\v16\lut\0\i\LogAn\Debug\LogAn.dll

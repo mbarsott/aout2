@@ -1,0 +1,5 @@
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\lut\0\b\NSubExamples\bin\Debug\NSubExamples.dll.config
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\lut\0\b\NSubExamples\bin\Debug\NSubExamples.dll
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\lut\0\i\NSubExamples\Debug\NSubExamples.csproj.CoreCompileInputs.cache
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\lut\0\i\NSubExamples\Debug\NSubExamples.csproj.CopyComplete
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\lut\0\i\NSubExamples\Debug\NSubExamples.dll

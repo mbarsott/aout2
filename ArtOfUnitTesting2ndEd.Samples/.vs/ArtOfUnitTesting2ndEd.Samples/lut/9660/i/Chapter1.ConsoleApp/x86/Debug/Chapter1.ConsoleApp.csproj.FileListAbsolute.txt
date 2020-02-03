@@ -1,0 +1,5 @@
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\lut\0\b\Chapter1.Console\bin\Debug\Chapter1.Console.exe
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\lut\0\i\Chapter1.ConsoleApp\x86\Debug\Chapter1.ConsoleApp.csprojAssemblyReference.cache
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\lut\0\i\Chapter1.ConsoleApp\x86\Debug\Chapter1.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\lut\0\i\Chapter1.ConsoleApp\x86\Debug\Chapter1.ConsoleApp.csproj.CopyComplete
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\lut\0\i\Chapter1.ConsoleApp\x86\Debug\Chapter1.Console.exe

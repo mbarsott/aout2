@@ -1,0 +1,5 @@
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\lut\0\b\Chapter5.LogAn\bin\Debug\Chapter5.LogAn.dll
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\lut\0\i\Chapter5.LogAn\Debug\Chapter5.LogAn.csprojAssemblyReference.cache
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\lut\0\i\Chapter5.LogAn\Debug\Chapter5.LogAn.csproj.CoreCompileInputs.cache
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\lut\0\i\Chapter5.LogAn\Debug\Chapter5.LogAn.csproj.CopyComplete
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\lut\0\i\Chapter5.LogAn\Debug\Chapter5.LogAn.dll

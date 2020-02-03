@@ -1,0 +1,7 @@
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\v16\lut\0\b\Examples\bin\Debug\Examples.exe.config
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\v16\lut\0\b\Examples\bin\Debug\Examples.exe
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\v16\lut\0\i\Examples\x86\Debug\Examples.csprojAssemblyReference.cache
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\v16\lut\0\i\Examples\x86\Debug\Examples.Properties.Resources.resources
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\v16\lut\0\i\Examples\x86\Debug\Examples.csproj.GenerateResource.cache
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\v16\lut\0\i\Examples\x86\Debug\Examples.csproj.CopyComplete
+C:\sb\bk\aout2\ArtOfUnitTesting2ndEd.Samples\.vs\ArtOfUnitTesting2ndEd.Samples\v16\lut\0\i\Examples\x86\Debug\Examples.exe
